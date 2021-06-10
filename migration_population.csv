@@ -1,0 +1,1122 @@
+country,year,population,pop_density,net_migration,migration_perc,iso3c,iso2c,region,incomeLevel,lendingType,capitalCity,longitude,latitude
+Afghanistan,2018,37172386,56.93776001,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2017,36296400,55.59599302,-314602,-0.008667581,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2016,35383128,54.19711424,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2015,34413603,52.7120715,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2014,33370794,51.11477805,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2013,32269589,49.42803817,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2012,31161376,47.73056398,521769,0.016744094,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2011,30117413,46.13150293,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2010,29185507,44.70408204,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2009,28394813,43.49295867,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2008,27722276,42.46281898,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2007,27100536,41.51048617,-1046361,-0.038610343,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2006,26433049,40.48808167,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2005,25654277,39.2952195,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2004,24726684,37.87440493,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2003,23680871,36.27251019,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2002,22600770,34.61809576,744193,0.032927772,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2001,21606988,33.09589805,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,2000,20779953,31.82911038,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1999,20170844,30.89612474,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1998,19737765,30.23276813,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1997,19357126,29.64973501,-867540,-0.044817604,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1996,18853437,28.87822351,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1995,18110657,27.74049107,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1994,17075727,26.15526606,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1993,15816603,24.22663818,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1992,14485546,22.18782894,3076383,0.212376047,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1991,13299017,20.37039641,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1990,12412308,19.01220476,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1989,11868877,18.17981956,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1988,11618005,17.79555341,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1987,11604534,17.77491958,-1525351,-0.131444399,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1986,11736179,17.97656312,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1985,11938208,18.28601538,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1984,12204292,18.69358208,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1983,12537730,19.20431639,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1982,12882528,19.73245106,-3345095,-0.25966138,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1981,13171673,20.17534081,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1980,13356511,20.45846123,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1979,13411056,20.54200901,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1978,13341198,20.43500597,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1977,13171306,20.17477867,-1153959,-0.087611585,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1976,12943093,19.8252198,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1975,12689160,19.43626505,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1974,12412950,19.01318813,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1973,12108963,18.54756456,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1972,11791215,18.06086297,-20000,-0.001696178,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1971,11475445,17.57719113,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1970,11173642,17.11491285,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1969,10893776,16.68623595,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1968,10637063,16.29302301,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1967,10399926,15.92979506,-20000,-0.001923091,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1966,10174836,15.58501976,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1965,9956320,15.250314,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1964,9744781,14.92629507,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1963,9543205,14.61753668,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1962,9351441,14.32380755,-20000,-0.002138708,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1961,9169410,14.04498667,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Afghanistan,1960,8996973,,,,AFG,AF,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+Bangladesh,2018,161356039,1239.579312,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2017,159670593,1226.631274,-1847503,-0.011570715,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2016,157970840,1213.573327,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2015,156256276,1200.401598,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2014,154520167,1187.064354,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2013,152764676,1173.578213,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2012,151007807,1160.081486,-2306839,-0.01527629,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2011,149273778,1146.760221,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2010,147575430,1133.713068,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2009,145924797,1121.032473,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2008,144304167,1108.582369,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2007,142660376,1095.954337,-3254778,-0.02281487,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2006,140921167,1082.593278,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2005,139035505,1068.107129,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2004,136986432,1052.365614,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2003,134791603,1035.504364,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2002,132478086,1017.731321,-1492537,-0.011266294,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2001,130088702,999.3754475,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,2000,127657854,980.7010371,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1999,125189651,961.7396558,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1998,122682815,942.4814857,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1997,120160564,923.1048936,-719899,-0.005991142,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1996,117649932,903.8175617,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1995,115169930,884.7655374,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1994,112737683,866.0803795,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1993,110350639,847.7424829,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1992,107983704,829.5590689,-813794,-0.007536267,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1991,105599127,811.2401245,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1990,103171956,792.5939617,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1989,100695497,773.5691557,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1988,98186350,754.2932319,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1987,95671163,734.9709073,-219363,-0.002292885,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1986,93187603,715.8915495,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1985,90764183,697.274203,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1984,88416521,679.2388492,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1983,86142495,661.7691864,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1982,83932127,644.7885611,-793826,-0.009457952,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1981,81767515,628.1594453,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1980,79639491,611.8114082,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1979,77529045,595.5984098,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1978,75450032,579.6268879,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1977,73463584,564.3664746,-1137344,-0.015481739,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1976,71652381,550.4523392,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1975,70066301,538.2676577,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1974,68742233,528.0958208,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1973,67637530,519.6092033,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1972,66625705,511.8360989,-3045287,-0.045707389,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1971,65531633,503.4311516,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1970,64232482,493.4507337,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1969,62679765,481.5223554,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1968,60918454,467.9915034,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1967,59034249,453.5165476,-161822,-0.002741155,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1966,57157654,439.1000538,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1965,55385112,425.4829223,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1964,53741716,412.8579243,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1963,52202007,401.0294768,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1962,50752157,389.8913498,-142378,-0.002805359,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1961,49362843,379.2182761,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bangladesh,1960,48013504,,,,BGD,BD,South Asia,Lower middle income,IDA,Dhaka,90.4113,23.7055
+Bhutan,2018,754394,19.77752777,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2017,745568,19.54614144,1600,0.002146015,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2016,736709,19.31388997,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2015,727876,19.09583675,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2014,719056,18.86444393,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2013,710238,18.63310358,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2012,701583,18.40603954,300,0.000427604,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2011,693298,18.18868245,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2010,685503,17.98418052,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2009,678323,17.79581312,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2008,671613,17.61977618,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2007,664876,17.44303089,-10971,-0.016500821,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2006,657410,17.24716028,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2005,648739,17.01967648,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2004,638815,16.7593202,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2003,627839,15.77484925,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2002,616018,15.4778392,6171,0.010017564,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2001,603640,15.16683417,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,2000,591021,14.84977387,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1999,577881,14.51962312,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1998,564377,14.18032663,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1997,551709,13.86203518,143,0.000259195,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1996,541465,13.60464824,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1995,534620,13.43266332,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1994,531897,13.36424623,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1993,532596,11.39901167,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1992,534516,11.44010492,-58565,-0.109566411,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1991,534632,11.44258764,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1990,530804,11.36065797,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1989,522179,11.17605937,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1988,509540,10.90555019,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1987,494312,10.57962932,1595,0.003226707,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1986,478692,10.24531858,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1985,464266,9.936562708,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1984,451476,9.662821712,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1983,439822,9.413394225,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1982,428934,9.180361234,797,0.001858095,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1981,418111,8.94871942,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1980,406875,8.708238277,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1979,395195,8.458254318,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1978,383326,8.204225243,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1977,371428,7.949575488,10016,0.026966195,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1976,359725,7.699099267,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1975,348396,7.456627669,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1974,337485,7.223102414,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1973,326982,6.998309476,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1972,316828,6.780986093,10001,0.031566023,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1971,306955,6.569676879,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1970,297316,6.363375905,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1969,287891,6.161655117,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1968,278734,5.965670262,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1967,269947,5.777604419,10000,0.037044309,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1966,261668,5.600411167,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1965,253994,5.436166569,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1964,246964,5.285705334,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1963,240523,5.14785031,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1962,234554,5.020097378,5000,0.021317053,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1961,228851,4.898037574,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+Bhutan,1960,223288,,,,BTN,BT,South Asia,Lower middle income,IDA,Thimphu,89.6177,27.5768
+India,2018,1352617328,454.9380726,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2017,1338658835,450.2432858,-2663434,-0.001989629,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2016,1324509589,445.4843414,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2015,1310152403,440.6554586,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2014,1295604184,435.762324,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2013,1280846129,430.7986133,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2012,1265782790,425.7322236,-2350075,-0.001856618,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2011,1250288729,420.5209654,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2010,1234281170,415.1369976,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2009,1217726215,409.5689192,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2008,1200669765,403.8321685,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2007,1183209472,397.9595895,-2655844,-0.00224461,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2006,1165486291,391.9985911,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2005,1147609927,385.9860712,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2004,1129623456,379.936518,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2003,1111523144,373.8486757,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2002,1093317189,367.7253014,-1888986,-0.001727757,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2001,1075000085,361.5645435,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,2000,1056575549,355.3676519,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1999,1038058156,349.1395289,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1998,1019483581,342.8921734,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1997,1000900030,336.6417989,-682569,-0.000681955,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1996,982365243,330.4078256,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1995,963922588,324.2048399,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1994,945601831,318.0428533,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1993,927403860,311.9221644,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1992,909307016,305.8354885,-552948,-0.000608098,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1991,891273209,299.7700144,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1990,873277798,293.7174543,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1989,855334678,287.6824818,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1988,837468930,281.6735325,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1987,819682102,275.691127,45150,5.51E-05,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1986,801975244,269.7356186,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1985,784360008,263.8109263,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1984,766833410,257.9160464,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1983,749428958,252.062249,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1982,732239504,246.2807638,579708,0.000791692,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1981,715384993,240.611933,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1980,698952844,235.085159,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1979,682995354,229.7180315,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1978,667499806,224.5062731,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1977,652408776,219.4305699,1111236,0.001703282,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1976,637630087,214.4599191,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1975,623102897,209.5738574,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1974,608802600,204.7641086,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1973,594770134,200.0444418,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1972,581087256,195.4423552,2106041,0.003624311,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1971,567868018,190.9962088,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1970,555189792,186.7320259,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1969,543084336,182.6604879,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1968,531513824,178.7688725,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1967,520400576,175.0310528,-342846,-0.000658812,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1966,509631500,171.4089917,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1965,499123324,167.8746814,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1964,488848135,164.4187338,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1963,478825608,161.0477662,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1962,469077190,157.7689922,-85391,-0.00018204,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1961,459642165,154.5956246,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+India,1960,450547679,,,,IND,IN,South Asia,Lower middle income,IBRD,New Delhi,77.225,28.6353
+Maldives,2018,515696,1718.986667,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2017,496402,1654.673333,56851,0.11452613,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2016,475513,1585.043333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2015,454915,1516.383333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2014,435015,1450.05,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2013,415593,1385.31,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2012,397237,1324.123333,58358,0.146909779,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2011,380495,1268.316667,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2010,365734,1219.113333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2009,353398,1177.993333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2008,343452,1144.84,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2007,335169,1117.23,17994,0.053686349,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2006,327487,1091.623333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2005,319608,1065.36,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2004,311265,1037.55,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2003,302683,1008.943333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2002,294186,980.62,17392,0.059119061,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2001,286306,954.3533333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,2000,279398,931.3266667,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1999,273527,911.7566667,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1998,268455,894.85,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1997,263842,879.4733333,-1100,-0.004169162,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1996,259183,863.9433333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1995,254139,847.13,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1994,248588,828.6266667,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1993,242605,808.6833333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1992,236265,787.55,-3072,-0.013002349,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1991,229751,765.8366667,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1990,223158,743.86,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1989,216510,721.7,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1988,209785,699.2833333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1987,203028,676.76,-2605,-0.012830743,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1986,196264,654.2133333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1985,189537,631.79,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1984,182850,609.5,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1983,176244,587.48,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1982,169851,566.17,0,0,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1981,163824,546.08,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1980,158272,527.5733333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1979,153276,510.92,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1978,148780,495.9333333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1977,144631,482.1033333,0,0,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1976,140563,468.5433333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1975,136417,454.7233333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1974,132104,440.3466667,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1973,127701,425.67,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1972,123354,411.18,2415,0.0195778,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1971,119302,397.6733333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1970,115691,385.6366667,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1969,112582,375.2733333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1968,109891,366.3033333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1967,107478,358.26,-2904,-0.027019483,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1966,105136,350.4533333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1965,102718,342.3933333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1964,100171,333.9033333,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1963,97551,325.17,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1962,94905,316.35,-581,-0.006121911,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1961,92325,307.75,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Maldives,1960,89863,,,,MDV,MV,South Asia,Upper middle income,IDA,Male,73.5109,4.1742
+Nepal,2018,28087871,195.9391071,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2017,27627124,192.7249669,208549,0.007548705,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2016,27261131,190.1718242,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2015,27015031,188.4550471,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2014,26906926,187.7009138,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2013,26917906,187.7775096,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2012,26989862,188.2794698,-2040239,-0.075592791,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2011,27041437,188.6392536,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2010,27013212,188.4423579,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2009,26883535,187.5377398,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2008,26666576,186.0242483,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2007,26382581,184.0431182,-971580,-0.036826571,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2006,26066693,181.8395047,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2005,25744500,179.5919079,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2004,25419344,177.3236414,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2003,25080872,174.9624834,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2002,24725627,172.4843181,-772525,-0.031243899,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2001,24347106,169.843781,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,2000,23941110,167.01158,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1999,23509964,164.4053427,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1998,23057883,161.2439371,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1997,22584775,157.9354895,-464703,-0.020575941,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1996,22090352,154.477986,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1995,21576071,150.8816154,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1994,21040904,147.1391888,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1993,20489975,143.2865385,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1992,19938320,139.4288112,76064,0.003814965,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1991,19405504,135.7028252,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1990,18905478,132.2061399,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1989,18445028,128.9862098,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1988,18020753,126.0192517,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1987,17623693,123.2426084,-216407,-0.012279322,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1986,17239673,120.5571538,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1985,16858310,117.8902797,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1984,16477473,115.2270839,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1983,16100617,112.5917273,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1982,15729431,109.996021,-101147,-0.00643043,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1981,15367230,107.4631469,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1980,15016402,105.0098042,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1979,14676929,102.6358671,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1978,14347641,100.3331538,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1977,14028536,98.10165035,-41002,-0.002922757,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1976,13719471,95.94035664,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1975,13420369,93.84873427,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1974,13131260,91.82699301,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1973,12852206,89.87556643,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1972,12583140,87.99398601,-5799,-0.000460855,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1971,12323982,86.18169231,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1970,12074626,84.43794406,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1969,11834654,82.75981818,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1968,11603928,81.14634965,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1967,11382967,79.60116783,-21075,-0.001851451,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1966,11172529,78.12957343,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1965,10972912,76.73365035,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1964,10783967,75.41235664,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1963,10604621,74.15818881,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1962,10433145,72.95905594,-70000,-0.006709386,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1961,10267264,71.79904895,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Nepal,1960,10105050,,,,NPL,NP,South Asia,Low income,IDA,Kathmandu,85.3157,27.6939
+Pakistan,2018,212215030,275.2893187,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2017,207896686,269.6874818,-1166895,-0.00561286,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2016,203627284,264.1491335,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2015,199426964,258.7003995,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2014,195306825,253.3556779,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2013,191262919,248.1098472,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2012,187281475,242.9450433,-1079167,-0.005762273,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2011,183340592,237.832856,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2010,179424641,232.7530108,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2009,175525609,227.6951134,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2008,171648986,222.6662853,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2007,167808105,217.6838224,-339805,-0.002024962,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2006,164022627,212.7732293,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2005,160304008,207.949367,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2004,156664697,203.2283844,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2003,153093373,198.5955959,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2002,149549700,193.9986768,-650182,-0.004347598,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2001,145978402,189.3659221,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,2000,142343578,184.6507602,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1999,138624621,179.8264594,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1998,134843233,174.9211719,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1997,131057431,170.0101585,470909,0.00359315,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1996,127349290,165.1998884,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1995,123776839,160.565638,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1994,120362762,156.1368332,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1993,117086685,151.8870447,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1992,113911126,147.76765,-1023387,-0.008984083,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1991,110778648,143.7041407,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1990,107647921,139.6429029,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1989,104512881,135.5760702,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1988,101389603,131.5244954,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1987,98285755,127.4981255,139790,0.001422281,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1986,95215378,123.5151749,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1985,92191510,119.5925566,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1984,89213706,115.7296933,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1983,86285935,111.9317339,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1982,83431605,108.2290434,1387118,0.01662581,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1981,80680459,104.6602052,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1980,78054343,101.2535583,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1979,75561131,98.01931688,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1978,73197258,94.95285648,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1977,70958169,92.04826821,672203,0.009473229,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1976,68834326,89.29317922,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1975,66816877,86.67610653,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1974,64905998,84.19727844,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1973,63099406,81.8537334,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1972,61381987,79.62586524,-138106,-0.002249943,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1971,59734481,77.48868955,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1970,58142060,75.42297115,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1969,56598144,73.42017435,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1968,55102684,71.48023557,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1967,53655789,69.60329623,-209978,-0.003913427,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1966,52260189,67.79289773,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1965,50917975,66.05175254,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1964,49627623,64.37788372,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1963,48387301,62.76891475,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1962,47198878,61.22727013,-93268,-0.001976064,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1961,46065231,59.75668197,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Pakistan,1960,44988690,,,,PAK,PK,South Asia,Lower middle income,Blend,Islamabad,72.8,30.5167
+Sri Lanka,2018,21670000,345.558922,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2017,21444000,341.9550311,-489932,-0.022847043,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2016,21203000,338.1119439,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2015,20970000,334.396428,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2014,20778000,331.3347154,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2013,20585000,328.2570563,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2012,20425000,325.7056291,-484772,-0.023734247,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2011,20398670,325.2857598,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2010,20261737,323.1021687,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2009,20123508,320.897911,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2008,19983984,318.6730027,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2007,19842044,316.4095679,-520065,-0.026210253,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2006,19695972,314.0802424,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2005,19544988,311.6725881,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2004,19387153,309.1556849,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2003,19224037,306.5545686,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2002,19062482,303.9783448,-449480,-0.023579301,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2001,18911730,301.57439,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,2000,18777601,299.4355127,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1999,18663284,297.6125658,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1998,18564599,296.0388933,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1997,18470900,294.5447297,-461684,-0.024995209,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1996,18367288,292.8924892,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1995,18242912,290.9091373,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1994,18094477,288.5421304,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1993,17924823,285.8367565,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1992,17736821,282.8387976,-255780,-0.014420848,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1991,17535729,279.6321001,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1990,17325773,276.2840536,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1989,17106753,272.7914687,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1988,16878189,269.1466911,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1987,16643952,265.4114495,-137440,-0.008257654,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1986,16408859,261.6625578,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1985,16176280,257.9537554,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1984,15948487,254.3212725,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1983,15724651,250.7518897,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1982,15501207,247.1887578,-398693,-0.025720126,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1981,15272831,243.5469782,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1980,15035834,239.7677244,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1979,14788862,235.8294052,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1978,14533690,231.7603253,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1977,14273495,227.6111465,-237500,-0.016639232,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1976,14012899,223.4555733,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1975,13755146,219.3453357,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1974,13501935,215.3075267,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1973,13252036,211.3225323,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1972,13002231,207.3390368,-145000,-0.011151932,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1971,12747821,203.2821081,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1970,12485740,199.1028544,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1969,12214956,194.784819,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1968,11937600,190.3619837,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1967,11657650,185.8977834,-38500,-0.003302552,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1966,11380670,181.480944,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1965,11110820,177.1778026,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1964,10849975,173.0182587,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1963,10597511,168.9923617,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1962,10352179,165.0801945,-47500,-0.004588406,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1961,10111637,161.2444108,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Sri Lanka,1960,9874476,,,,LKA,LK,South Asia,Upper middle income,IBRD,Colombo,79.8528,6.92148
+Indonesia,2018,267663435,147.7521901,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2017,264645886,146.0864808,-494777,-0.001869581,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2016,261554226,144.3798617,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2015,258383256,142.6294628,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2014,255129004,140.8330917,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2013,251806402,138.9989909,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2012,248452413,137.1475643,-454447,-0.001829111,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2011,245116206,135.3059534,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2010,241834215,133.4942702,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2009,238620563,131.7203106,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2008,235469762,129.9810452,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2007,232374245,128.272297,-1333685,-0.005739384,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2006,229318262,126.5853718,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2005,226289470,124.9134563,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2004,223285676,123.2553398,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2003,220309469,121.6124516,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2002,217357793,119.9831047,-1149655,-0.005289228,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2001,214427417,118.3655155,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,2000,211513823,116.7571902,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1999,208615169,115.1571118,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1998,205724592,113.561492,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1997,202826446,111.961694,-67671,-0.00033364,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1996,199901228,110.3469521,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1995,196934260,108.7091639,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1994,193917462,107.0438691,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1993,190851175,105.3512561,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1992,187739786,103.6337464,-35412,-0.000188623,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1991,184591903,101.8960918,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1990,181413402,100.1415358,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1989,178209150,98.37276506,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1988,174975954,96.58801702,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1987,171702763,94.78119145,261282,0.001521711,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1986,168374287,92.94384815,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1985,164982451,91.07152967,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1984,161523347,89.16207875,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1983,158009246,87.22226908,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1982,154468229,85.26760158,475080,0.003075584,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1981,150938232,83.31901721,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1980,147447836,81.39229287,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1979,144009845,79.49449649,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1978,140621730,77.62423202,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1977,137278058,75.77850042,378743,0.002758948,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1976,133966941,73.95073941,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1975,130680727,72.13672505,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1974,127422211,70.33800019,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1973,124199687,68.55914317,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1972,121017314,66.80244981,508276,0.004200027,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1971,117880144,65.07070883,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1970,114793178,63.36668083,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1969,111758563,61.69155098,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1968,108779924,60.04732028,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1967,105865571,58.43857593,556062,0.005252529,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1966,103025426,56.87079495,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1965,100267062,55.34815768,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1964,97596733,53.87411637,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1963,95015297,52.44914466,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1962,92518377,51.07082641,449965,0.00486352,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1961,90098394,49.73497795,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Indonesia,1960,87751068,,,,IDN,ID,South-East Asia,Lower middle income,IBRD,Jakarta,106.83,-6.19752
+Thailand,2018,69428524,135.8972068,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2017,69209858,135.4691969,97222,0.001404742,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2016,68971331,135.0023117,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2015,68714511,134.4996203,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2014,68438730,133.9598152,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2013,68144501,133.3839006,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2012,67835957,132.7799663,167314,0.00246645,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2011,67518382,132.158355,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2010,67195028,131.5254321,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2009,66866839,130.8830453,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2008,66530984,130.2256533,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2007,66182067,129.5426941,59008,0.000891601,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2006,65812536,128.8193858,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2005,65416189,128.0435886,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2004,64995299,127.2197518,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2003,64549866,126.3478753,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2002,64069087,125.4068136,373746,0.005833484,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2001,63539196,124.3696216,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,2000,62952642,123.2215193,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1999,62298571,121.9412613,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1998,61585103,120.5447415,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1997,60846582,119.0991838,715832,0.011764539,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1996,60130186,117.6969328,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1995,59467274,116.3993697,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1994,58875269,115.2405978,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1993,58337773,114.18852,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1992,57811021,113.1574723,-607538,-0.010509034,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1991,57232465,112.025025,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1990,56558186,110.7052125,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1989,55772169,109.1666875,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1988,54891520,107.4429329,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1987,53945881,105.5919689,504404,0.009350186,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1986,52980094,103.7015679,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1985,52026901,101.8358179,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1984,51094868,100.0114858,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1983,50173924,98.20885905,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1982,49255900,96.41194778,339923,0.006901163,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1981,48326274,94.59232712,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1980,47374472,92.72929985,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1979,46401754,90.82533226,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1978,45413080,88.89013291,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1977,44405904,86.91871832,287226,0.006468194,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1976,43377271,84.90530447,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1975,42326312,82.84819041,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1974,41252324,80.74600012,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1973,40159582,78.60710133,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1972,39058603,76.4520797,395572,0.010127654,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1971,37963278,74.30812504,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1970,36884536,72.19662941,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1969,35827092,70.12682182,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1968,34791409,68.09960853,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1967,33778799,66.1175576,0,0,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1966,32789130,64.18041066,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1965,31822660,62.28867271,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1964,30881138,60.44576719,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1963,29966865,58.65619801,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1962,29080938,56.92211239,0,0,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1961,28224187,55.24513496,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Thailand,1960,27397207,,,,THA,TH,South-East Asia,Upper middle income,IBRD,Bangkok,100.521,13.7308
+Philippines,2018,106651922,357.6883053,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2017,105173264,352.7291948,-335758,-0.003192427,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2016,103663927,347.6671932,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2015,102113212,342.4664185,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2014,100513138,337.100104,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2013,98871552,331.5945669,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2012,97212638,326.0309152,-834619,-0.008585499,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2011,95570047,320.5220076,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2010,93966780,315.1449844,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2009,92414158,309.937814,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2008,90901965,304.866234,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2007,89405482,299.8473421,-1548077,-0.017315236,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2006,87888675,294.7602878,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2005,86326250,289.5202401,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2004,84710542,284.1014924,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2003,83051971,278.5389912,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2002,81365258,272.8821075,-1244356,-0.015293456,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2001,79672873,267.2062012,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,2000,77991755,261.568082,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1999,76325927,255.9812422,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1998,74672014,250.4343629,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1997,73030884,244.9303552,-949346,-0.01299924,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1996,71401749,239.4665761,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1995,69784088,234.0412785,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1994,68180859,228.6643827,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1993,66593904,223.3420666,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1992,65020116,218.0639099,-698877,-0.010748627,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1991,63454786,212.8141195,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1990,61895160,207.5834591,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1989,60340767,202.3703491,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1988,58795001,197.1861723,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1987,57263836,192.0509642,-314676,-0.005495196,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1986,55755355,186.9918335,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1985,54275822,182.0297884,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1984,52827040,177.1708757,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1983,51408912,172.4147701,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1982,50023563,167.7685985,-292444,-0.005846125,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1981,48672838,163.2385485,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1980,47357743,158.8279941,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1979,46079850,154.5422075,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1978,44838483,150.3789214,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1977,43629412,146.3239494,-476561,-0.01092293,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1976,42446653,142.3572224,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1975,41285742,138.463769,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1974,40144248,134.626406,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1973,39022767,130.8478926,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1972,37923396,127.1487829,-375090,-0.009890728,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1971,36849675,123.5488332,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1970,35803594,120.0415543,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1969,34786305,116.6308087,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1968,33795194,113.3078321,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1967,32823968,110.0515255,-470430,-0.014331905,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1966,31864182,106.8335747,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1965,30909988,103.6343727,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1964,29958688,100.4448736,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1963,29012625,97.27293301,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1962,28077339,94.13712533,-218063,-0.007766512,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1961,27161047,91.06500034,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Philippines,1960,26269734,,,,PHL,PH,South-East Asia,Lower middle income,IBRD,Manila,121.035,14.5515
+Vietnam,2018,95540395,308.1252459,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2017,94596642,305.0815687,-399999,-0.004228469,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2016,93638724,301.9922082,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2015,92677076,298.8908182,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2014,91714595,295.7867417,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2013,90753472,292.6870449,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2012,89802487,289.6200439,-399999,-0.004454208,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2011,88871561,286.6177347,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2010,87967651,283.7025543,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2009,87092252,280.879324,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2008,86243413,278.1417519,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2007,85419591,275.4848615,-799969,-0.00936517,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2006,84617540,272.8981843,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2005,83832661,270.3668881,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2004,83062821,267.8840939,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2003,82301656,265.4292773,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2002,81534407,262.5484044,-650999,-0.007984347,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2001,80742499,259.5470732,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,2000,79910412,256.8971002,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1999,79035871,242.8211957,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1998,78115710,239.9941934,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1997,77133214,236.9756797,-216001,-0.002800363,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1996,76068743,233.7053151,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1995,74910461,230.1467357,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1994,73651218,226.2779747,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1993,72300308,222.1275861,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1992,70883481,217.7746812,-394236,-0.005561747,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1991,69436954,213.3305294,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1990,67988862,208.8815693,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1989,66550234,204.4616855,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1988,65120439,200.0689391,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1987,63701972,195.7109957,-332327,-0.005216903,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1986,62293856,191.3848536,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1985,60896721,187.0924483,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1984,59512619,182.8400842,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1983,58148384,178.6487573,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1982,56814306,174.5500814,-327564,-0.00576552,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1981,55522803,170.5822084,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1980,54281846,166.7696273,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1979,53095408,163.1245445,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1978,51959015,159.6332145,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1977,50861162,156.2602906,-858895,-0.01688705,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1976,49785282,152.9548742,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1975,48718189,149.676454,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1974,47657561,146.4178961,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1973,46603525,143.1795908,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1972,45548479,139.9381824,0,0,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1971,44484035,136.6679007,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1970,43404793,133.3521552,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1969,42307146,129.9798642,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1968,41193601,126.5587299,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1967,40072948,123.1157578,0,0,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1966,38958048,119.6904605,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1965,37858951,116.3137147,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1964,36779999,112.9988602,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1963,35721217,109.7459738,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1962,34683407,106.5575194,0,0,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1961,33666110,103.432087,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Vietnam,1960,32670039,,,,VNM,VN,South-East Asia,Lower middle income,IBRD,Hanoi,105.825,21.0069
+Singapore,2018,5638676,7952.998418,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2017,5612253,7915.730436,135142,0.024079813,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2016,5607283,7908.720563,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2015,5535002,7806.772752,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2014,5469724,7714.702232,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2013,5399162,7636.721687,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2012,5312437,7524.698463,317028,0.059676567,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2011,5183688,7363.193022,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2010,5076732,7231.81228,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2009,4987573,7125.104286,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2008,4839396,6913.422857,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2007,4588599,6602.300719,721338,0.157202231,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2006,4401365,6342.024356,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2005,4265762,6191.236438,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2004,4166664,6047.407704,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2003,4114826,5989.557762,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2002,4175950,6186.592593,92772,0.022215783,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2001,4138012,6176.137313,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,2000,4027887,6011.771642,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1999,3958723,5908.541791,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1998,3927213,5861.51194,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1997,3796038,5665.728358,321578,0.084714115,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1996,3670704,5478.662687,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1995,3524506,5260.456716,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1994,3419048,5103.056716,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1993,3313471,4945.479104,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1992,3230698,4821.937313,297845,0.092192152,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1991,3135083,4679.228358,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1990,3047132,4547.958209,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1989,2930901,4374.479104,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1988,2846108,4247.922388,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1987,2774789,4141.476119,119802,0.043175175,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1986,2733373,4079.661194,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1985,2735957,4083.51791,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1984,2732221,4077.941791,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1983,2681061,4001.583582,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1982,2646466,3949.949254,137812,0.052073973,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1981,2532835,3780.350746,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1980,2413945,3602.902985,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1979,2383500,3557.462687,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1978,2353600,3512.835821,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1977,2325300,3470.597015,14273,0.006138133,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1976,2293300,3422.835821,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1975,2262600,3377.014925,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1974,2229800,3328.059701,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1973,2193000,3273.134328,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1972,2152400,3212.537313,5881,0.002732299,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1971,2112900,3153.58209,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1970,2074507,3096.279104,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1969,2042500,3048.507463,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1968,2012000,3002.985075,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1967,1977600,2951.641791,-365,-0.000184567,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1966,1934400,2887.164179,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1965,1886900,2816.268657,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1964,1841600,2748.656716,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1963,1795000,2679.104478,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1962,1750200,2612.238806,428,0.000244543,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1961,1702400,2540.895522,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Singapore,1960,1646400,,,,SGP,SG,South-East Asia,High income,Not classified,Singapore,103.85,1.28941
+Malaysia,2018,31528585,95.96282149,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2017,31105028,94.67365089,249999,0.008037254,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2016,30684804,93.39462487,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2015,30270962,92.13502359,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2014,29866559,90.90415158,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2013,29468872,89.69372089,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2012,29068159,88.47408005,249999,0.008600441,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2011,28650955,87.20424593,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2010,28208035,85.85614062,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2009,27735040,84.41649673,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2008,27236006,82.89759854,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2007,26720370,81.32816923,761878,0.028513003,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2006,26201961,79.7502998,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2005,25690611,78.19391569,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2004,25190652,76.6722021,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2003,24698819,75.17522143,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2002,24208391,73.68251712,671473,0.027737201,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2001,23709119,72.16289454,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,2000,23194257,70.59582103,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1999,22661298,68.97366611,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1998,22114654,67.30985847,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1997,21562793,65.63017197,516689,0.023962063,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1996,21017613,63.97082027,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1995,20487607,62.35765333,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1994,19977500,60.8050525,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1993,19484898,59.30573124,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1992,19002656,57.83794247,292354,0.015384902,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1991,18519937,56.36870187,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1990,18029824,54.87695632,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1989,17528961,53.35249125,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1988,17022465,51.81088114,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1987,16522000,50.28762745,425455,0.025750817,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1986,16043731,48.83193121,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1985,15598927,47.47809161,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1984,15192298,46.24044438,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1983,14819424,45.10553645,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1982,14471211,44.04568863,-77285,-0.005340603,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1981,14134058,43.01950388,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1980,13798085,41.99691067,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1979,13460031,40.96798356,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1978,13122839,39.94168011,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1977,12790312,38.92957541,-5443,-0.000425556,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1976,12468689,37.95065896,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1975,12162187,37.01776594,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1974,11871104,36.13180338,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1973,11592638,35.28424289,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1972,11324277,34.46743875,-135303,-0.011948048,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1971,11062433,33.67047025,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1970,10804131,32.88428245,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1969,10549399,32.10896058,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1968,10297983,31.34373155,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1967,10046325,30.57776594,-139279,-0.013863677,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1966,9790084,29.79785116,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1965,9526558,28.9957632,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1964,9253842,28.16570385,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1963,8973788,27.31331,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1962,8692342,26.45667935,-58601,-0.006741681,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1961,8417824,25.62113529,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Malaysia,1960,8156347,,,,MYS,MY,South-East Asia,Upper middle income,IBRD,Kuala Lumpur,101.684,3.12433
+Myanmar,2018,53708395,82.23861548,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2017,53382581,81.73972714,-816564,-0.01529645,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2016,53045226,81.22316715,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2015,52680726,80.66504257,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2014,52280807,80.0526842,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2013,51852451,79.39678294,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2012,51413698,78.71652453,-528211,-0.010273741,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2011,50990615,78.05203661,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2010,50600818,77.458926,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2009,50250367,76.91775142,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2008,49929642,76.42565092,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2007,49621475,75.92954309,-1336928,-0.026942528,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2006,49301050,75.44500895,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2005,48949924,74.92029509,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2004,48564484,74.32353463,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2003,48148902,73.67399394,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2002,47702171,72.99043823,-1208092,-0.025325724,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2001,47225120,72.26048903,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,2000,46719701,71.48713315,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1999,46181077,70.66296937,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1998,45611220,69.79101509,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1997,45027233,68.8974401,-537998,-0.01194828,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1996,44452206,68.01757505,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1995,43901598,67.17507421,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1994,43383428,66.38220767,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1993,42890002,65.62720262,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1992,42401684,64.88001347,-713704,-0.016831973,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1991,41890197,64.09737277,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1990,41335199,63.24815467,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1989,40731426,62.32430456,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1988,40085651,61.336186,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1987,39404335,60.29368516,-200000,-0.005075584,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1986,38698482,59.21363956,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1985,37977086,58.10981118,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1984,37241527,56.9843116,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1983,36491800,55.83713315,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1982,35734272,54.67801818,-54656,-0.001529512,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1981,34976462,53.51847171,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1980,34224313,52.36758729,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1979,33481396,51.23082902,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1978,32748784,50.10983872,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1977,32026742,49.00502188,0,0,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1976,31314341,47.914957,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1975,30611095,46.83890045,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1974,29918461,45.77908162,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1973,29238168,44.7381461,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1972,28570097,43.7159118,0,0,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1971,27913750,42.71161673,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1970,27269069,41.72517214,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1969,26635849,40.75626434,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1968,26015248,39.80666524,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1967,25410060,38.88065,0,0,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1966,24823940,37.98381124,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1965,24259359,37.11992992,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1964,23717788,36.29125685,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1963,23198241,35.49628332,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1962,22697667,34.73034091,0,0,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1961,22211624,33.9866328,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Myanmar,1960,21736942,,,,MMR,MM,South-East Asia,Lower middle income,IDA,Naypyidaw,95.9562,21.914
+Cambodia,2018,16249798,92.05641287,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2017,16009414,90.69461817,-149999,-0.009369425,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2016,15766293,89.31731815,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2015,15521436,87.93018355,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2014,15274503,86.53128824,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2013,15026332,85.12537956,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2012,14780454,83.73246091,-149999,-0.01014847,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2011,14541423,82.37833107,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2010,14312212,81.07983231,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2009,14093604,79.84140041,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2008,13883834,78.65303648,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2007,13679962,77.4980852,-295987,-0.021636537,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2006,13477709,76.35230569,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2005,13273354,75.19461817,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2004,13066469,74.02259801,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2003,12856163,72.8311976,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2002,12637727,71.59374009,-35156,-0.002781829,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2001,12405408,70.27763426,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,2000,12155239,68.86040675,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1999,11886458,67.33774077,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1998,11600508,65.71781101,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1997,11298600,64.00747791,348495,0.030844087,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1996,10982917,62.21910832,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1995,10656138,60.36787899,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1994,10317899,58.45172785,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1993,9970733,56.48500453,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1992,9623889,54.52010537,409414,0.04254143,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1991,9289299,52.6246261,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1990,8975597,50.84747904,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1989,8691334,49.23710628,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1988,8435912,47.7901201,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1987,8198082,46.44279402,-78022,-0.009517104,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1986,7960949,45.0994165,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1985,7714880,43.70541582,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1984,7447853,42.19268638,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1983,7169997,40.61860979,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1982,6919801,39.20122932,-88854,-0.012840543,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1981,6749847,38.23842624,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1980,6693764,37.92071153,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1979,6770396,38.35483798,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1978,6957265,39.4134659,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1977,7196042,40.76615681,-84999,-0.01181191,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1976,7404684,41.94813052,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1975,7524447,42.62659755,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1974,7533336,42.67695445,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1973,7449238,42.20053252,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1972,7302111,41.36704623,-125000,-0.017118337,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1971,7139647,40.4466746,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1970,6996576,39.63616587,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1969,6880623,38.9792828,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1968,6779787,38.40803875,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1967,6685960,37.87650125,-248418,-0.037155173,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1966,6585035,37.304753,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1965,6467197,36.63719125,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1964,6331449,35.86816791,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1963,6183584,35.03050079,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1962,6028431,34.15154657,0,0,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1961,5872966,33.27082484,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Cambodia,1960,5722370,,,,KHM,KH,South-East Asia,Lower middle income,IDA,Phnom Penh,104.874,11.5556
+Laos,2018,7061507,30.59578423,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2017,6953035,30.12580156,-73518,-0.010573512,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2016,6845846,29.66137782,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2015,6741164,29.20781629,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2014,6639756,28.76844021,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2013,6541304,28.34187175,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2012,6444530,27.92257366,-112313,-0.017427648,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2011,6347567,27.50245667,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2010,6249165,27.07610485,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2009,6148623,26.64048094,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2008,6046620,26.19852686,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2007,5944948,25.75800693,-110258,-0.018546504,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2006,5846074,25.32961005,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2005,5751676,24.92060659,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2004,5662208,24.5329636,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2003,5576640,24.16221837,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2002,5493246,23.80089255,-148100,-0.02696038,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2001,5409582,23.43839688,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,2000,5323700,23.06629116,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1999,5235346,22.68347487,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1998,5144602,22.29030329,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1997,5050315,21.88178076,-134746,-0.026680712,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1996,4951195,21.45231802,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1995,4846483,20.99862652,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1994,4735845,20.5192591,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1993,4619944,20.01708839,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1992,4500351,19.49892114,-60567,-0.013458284,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1991,4379236,18.97415945,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1990,4258472,18.45091854,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1989,4138845,17.93260399,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1988,4020811,17.42119151,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1987,3905530,16.92170711,138,3.53E-05,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1986,3794198,16.43933276,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1985,3687898,15.97876083,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1984,3586316,15.53863085,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1983,3489903,15.12089688,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1982,3401191,14.73652946,-35110,-0.010322855,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1981,3323366,14.39933276,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1980,3258144,14.11674177,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1979,3207328,13.89656846,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1978,3168843,13.72982236,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1977,3135842,13.58683709,-198756,-0.06338202,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1976,3098973,13.42709272,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1975,3051577,13.22173744,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1974,2990965,12.95912045,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1973,2919287,12.64855719,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1972,2840841,12.30866984,46,1.62E-05,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1971,2762265,11.96821924,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1970,2688428,11.64830156,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1969,2620434,11.35370017,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1968,2556852,11.0782149,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1967,2496920,10.81854419,30,1.20E-05,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1966,2439196,10.56844021,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1965,2382594,10.32319757,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1964,2327137,10.08291594,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1963,2273351,9.84987435,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1962,2221125,9.623591854,76,3.42E-05,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1961,2170344,9.403570191,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Laos,1960,2120898,,,,LAO,LA,South-East Asia,Lower middle income,IDA,Vientiane,102.177,18.5826
+Brunei Darussalam,2018,428962,81.39696395,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2017,424473,80.54516129,0,0,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2016,419800,79.65844402,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2015,414907,78.72998102,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2014,409769,77.75502846,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2013,404421,76.7402277,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2012,398989,75.70948767,-901,-0.002258208,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2011,393688,74.70360531,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2010,388646,73.74686907,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2009,383906,72.84743833,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2008,379421,71.99639469,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2007,374965,71.15085389,-2257,-0.006019228,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2006,370263,70.25863378,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2005,365114,69.28159393,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2004,359433,68.20360531,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2003,353293,67.03851992,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2002,346782,65.80303605,422,0.001216903,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2001,340034,64.52258065,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,2000,333165,63.21916509,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1999,326210,61.89943074,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1998,319144,60.55863378,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1997,311958,59.19506641,4188,0.013424884,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1996,304622,57.80303605,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1995,297114,56.37836812,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1994,289454,54.92485769,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1993,281681,53.44990512,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1992,273892,51.97191651,4770,0.017415624,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1991,266210,50.5142315,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1990,258721,49.09316888,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1989,251458,47.71499051,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1988,244404,46.37647059,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1987,237563,45.07836812,3684,0.015507465,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1986,230915,43.81688805,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1985,224449,42.58994307,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1984,218175,41.39943074,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1983,212076,40.24212524,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1982,206065,39.10151803,3622,0.017576978,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1981,200021,37.95464896,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1980,193879,36.78918406,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1979,187604,35.59848197,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1978,181205,34.38425047,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1977,174714,33.15256167,8293,0.047466145,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1976,168181,31.91290323,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1975,161626,30.66907021,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1974,155072,29.42542694,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1973,148512,28.18064516,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1972,142022,26.94914611,10886,0.076650096,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1971,135671,25.74402277,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1970,129529,24.57855787,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1969,123600,23.45351044,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1968,117898,22.371537,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1967,112448,21.3373814,10843,0.096426793,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1966,107274,20.35559772,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1965,102386,19.42808349,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1964,97812,18.5601518,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1963,93540,17.74952562,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1962,89481,16.97931689,6422,0.071769426,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1961,85562,16.23567362,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Brunei Darussalam,1960,81702,,,,BRN,BN,South-East Asia,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+Timor-Leste,2018,1267972,85.27047747,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2017,1243261,83.60867518,-26924,-0.021655952,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2016,1219288,81.99650303,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2015,1196302,80.45070612,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2014,1174331,78.97316745,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2013,1153295,77.55850706,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2012,1132994,76.19327505,-28030,-0.02473976,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2011,1113151,74.85884331,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2010,1093523,73.53887021,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2009,1074277,72.24458642,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2008,1055431,70.97720242,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2007,1036392,69.69683927,-38074,-0.036737065,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2006,1016432,68.35453934,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2005,995135,66.92232683,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2004,971893,65.35931406,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2003,947108,63.69253531,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2002,922694,62.05070612,-27870,-0.03020503,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2001,901214,60.60618695,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,2000,884366,59.47316745,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1999,873136,58.71795562,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1998,866530,58.27370545,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1997,861866,57.9600538,-81574,-0.094648124,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1996,855362,57.52266308,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1995,844334,56.78103564,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1994,827825,55.67081372,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1993,806860,54.26092804,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1992,783198,52.66967048,0,0,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1991,759527,51.07780767,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1990,737814,49.61761937,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1989,718741,48.33496974,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1988,701809,47.19630128,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1987,686471,46.16482851,0,0,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1986,671752,45.17498319,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1985,657053,44.18648285,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1984,641844,43.16368527,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1983,626675,42.14357767,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1982,613238,41.2399462,0,0,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1981,603842,40.60806994,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1980,599905,40.34330868,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1979,602358,40.50827169,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1978,610054,41.02582381,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1977,619816,41.68231338,-51400,-0.082927837,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1976,627251,42.18231338,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1975,629227,42.31519839,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1974,624555,42.00100874,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1973,614253,41.30820444,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1972,600192,40.36260928,0,0,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1971,585251,39.35783457,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1970,571565,38.43745797,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1969,559626,37.63456624,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1968,548825,36.90820444,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1967,538909,36.24135844,0,0,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1966,529327,35.59697377,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1965,519686,34.94862139,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1964,510034,34.29952925,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1963,500647,33.66825824,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1962,491571,33.05790182,0,0,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1961,482854,32.47168796,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
+Timor-Leste,1960,474532,,,,TLS,TL,South-East Asia,Lower middle income,Blend,Dili,125.567,-8.56667
