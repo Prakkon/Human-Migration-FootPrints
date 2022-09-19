@@ -7,10 +7,10 @@ A project that started as a course assignment submission and took a turn towards
 
 I'll be adding patch notes with time for each commit as long as I feel there's room for improvement (at the time of it's creation, yes, there's a lot of room!)
 
-### Future Plans
+### Future Plans:
 
 1) Clean Data
-2) Add more visualizations!
+2) Add more visualizations:
   a. add a 3-D globe encompassing human movements over the past 1 century
   b. Map-wide tableau dashboard
   c. Mapping historic events, consequences of the movements in a story mode!
