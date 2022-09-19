@@ -1,11 +1,8 @@
-# Visualizing Human Migration Patterns and Trafficking in South Asia and South-East Asia
+# Human Migration Patterns
 
 
-#### Hello reader! If you are going to use it as inspiration for your projects, please feel free to do so! This is a project based on machine learning, data visualizations and time series analysis
+#### Introduction
 
-Note:
-- Project added on 10th of June, 2021
-- This repository contains my college project on Data Visualization
-- I go by the name Prakhar, and I'm most likely to improve this work as time passes. I've made some initial commits, and I will be adding changes with time :)
+A project that started as a course assignment submission and took a turn towards passion as I dug deeper into the subject. There are a lot of cool facts I plan to unravel as I evolve my visualization skills and knowledge of the topic.
 
 I'll be adding patch notes with time for each commit as long as I feel there's room for improvement (at the time of it's creation, yes, there's a lot of room!)
